@@ -1,0 +1,2 @@
+# Trained Baseline RNN Models
+In case the best checkpoint doesn't work please find all the checkpoint via this [link](https://drive.google.com/drive/folders/1TCgUCVF3KmQyd4fLC5DLbrrDt0qn-A7F?usp=sharing)
